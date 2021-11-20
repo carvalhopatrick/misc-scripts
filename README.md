@@ -1,5 +1,5 @@
 # misc-scripts
-Collection of small shell utility scripts
+Collection of small utility shell scripts
 
 ## Content
 
